@@ -19,7 +19,9 @@ That depends on what you're looking for...
 
 Within you'll find a lot of repos that consist of modules created to power large projects, half baked ideas, practice repos to learn or sharpen skills, and attempts at making hardware easier to hack on.
 
-### Hardware Hacking
+---
+
+## Hardware Hacking
 
 ![Conductive Paint Example](conductive_paint.gif)
 
@@ -38,7 +40,9 @@ Within you'll find a lot of repos that consist of modules created to power large
 
 ![Cameras under socket control](cameras.gif)
 
-### Robotics and Computer Vision
+---
+
+## Robotics and Computer Vision
 ![Lane Detection](lane_detection.gif)
 
 * **[AI Algorithm Playground](https://github.com/hlfshell/ai_playground)** - where I played around with some AI algorithms and made some fun little generators to test them
@@ -47,7 +51,9 @@ Within you'll find a lot of repos that consist of modules created to power large
 
 ![A*](astar.gif)
 
-### node.js Projects
+---
+
+## node.js Projects
 
 I wrote a lot of node.js and Typescript for a few years. Here's some of my more notable projects. 
 
