@@ -38,6 +38,8 @@ Within you'll find a lot of repos that consist of modules created to power large
 
 * **[doorbell](https://github.com/hlfshell/doorbell)** - DIY raspberry pi video camera / MMS based doorbell project
 
+* **[mlx90621-electron](https://github.com/hlfshell/mlx90621-electron)** - Electron app w/ thermal sensor for low res DIY thermal camera
+
 ![Cameras under socket control](cameras.gif)
 
 ---
