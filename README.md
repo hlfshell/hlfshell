@@ -55,6 +55,14 @@ Within you'll find a lot of repos that consist of modules created to power large
 
 ---
 
+## golang
+
+The vast majority of my golang work is under private repos - I have not had the opportunity to prepare too much open source go work.
+
+* **[SafeStop](https://github.com/hlfshell/safestop)** - SafeStop is a service that coordinates safely shutting down and halting services and daemonized processes for larger applications when a `SIGINT`, `SIGTERM`, or equivalent is triggered.
+
+---
+
 ## node.js Projects
 
 I wrote a lot of node.js and Typescript for a few years. Here's some of my more notable projects. 
