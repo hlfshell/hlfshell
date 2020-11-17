@@ -4,7 +4,7 @@ Robotics and DIY tech enthusiast.
 
 Projects currently focus on:
 
-* Robots
+* Robotics
 * DIY Tech
 * Computer Vision
 * Random Insane Ideas
@@ -13,11 +13,7 @@ Projects currently focus on:
 
 I hold a degree in Robotics Engineering and will soon begin studying for a masters in the same from WPI. I currently work as a Senior Software Engineer for [Brain Corp](http://www.braincorp.com)'s Cloud Team.
 
-## What Repos should you look at?
-
-That depends on what you're looking for... 
-
-Within you'll find a lot of repos that consist of modules created to power large projects, half baked ideas, practice repos to learn or sharpen skills, and attempts at making hardware easier to hack on.
+# Suggested Repos
 
 ---
 
