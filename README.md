@@ -22,8 +22,9 @@ Within you'll find a lot of repos that consist of modules created to power large
 ---
 
 ## Hardware Hacking
-
-![Conductive Paint Example](conductive_paint.gif)
+<p align="center">
+<img width="300px" src="conductive_paint.gif">
+</p>
 
 * **[Serial Synapse](https://github.com/hlfshell/serial-synapse)** - A microcontroller that utilizes the serial-synapse defined serial messaging system can be connected to a loosely described `serial-synapse` object. `serial-synapse` would then instantly create an interactive JavaScript API object to easily automate the hardware and programmatically control it. This powered dozens of weird hardware builds throughout the years.
 
@@ -40,18 +41,30 @@ Within you'll find a lot of repos that consist of modules created to power large
 
 * **[mlx90621-electron](https://github.com/hlfshell/mlx90621-electron)** - Electron app w/ thermal sensor for low res DIY thermal camera
 
-![Cameras under socket control](cameras.gif)
+<p align="center">
+<img width="300px" src="cameras.gif">
+</p>
 
 ---
 
 ## Robotics and Computer Vision
-![Lane Detection](lane_detection.gif)
+<p align="center">
+<img width="300px" src="lane_detection.gif">
+</p>
 
 * **[AI Algorithm Playground](https://github.com/hlfshell/ai_playground)** - where I played around with some AI algorithms and made some fun little generators to test them
 
 * **[personable](https://github.com/hlfshell/personable)** - an attempt to make human identification and tracking easier for future projects, I mashed together human pose estimation with face recognition and skeletal tracking to allow some projects interact with a person
 
-![A*](astar.gif)
+* **[Behavioral Cloning](https://github.com/hlfshell/udacity_carnd_behavioral_cloning)** - final project for the Udacity Self Driving Car Nanodegree. A CNN observes simulated car's manual driving and then manages to reproduce the behavior of steering to staying in-lane on a race course.
+
+* **[Lane Detection](https://github.com/hlfshell/Udacity-CarND-Advanced-Lane-Finding)** - homework assignment for the Udacity Self Driving Car Nanodegree. Utilizes thresholding and sobel edge edge detection to determine lane curvature.
+
+* **[Vehicle Detection](https://github.com/hlfshell/Udacity-CarND-VehicleDetection)** - homework assignment for the Udacity Self Driving Car Nanodegree. Within is a classical computer vision vehicle detector utilizing a histogram of gradients (*HoG*) to identify vehicles in a video.
+
+<p align="center">
+<img width="300px" src="astar.gif">
+</p>
 
 ---
 
