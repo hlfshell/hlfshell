@@ -11,7 +11,7 @@ Projects currently focus on:
 
 ---
 
-I hold a degree in Robotics Engineering and will soon begin studying for a masters in the same from WPI. I currently work as a Senior Software Engineer for [Brain Corp](http://www.braincorp.com)'s Cloud Team.
+I hold a degree in Robotics Engineering and will soon begin studying for a masters in the same from WPI. I currently work as a Senior Software Engineer for [Brain Corp](http://www.braincorp.com)'s Cloud Team. You may view my resume [here](https://github.com/hlfshell/resume).
 
 # Suggested Repos
 
@@ -22,12 +22,13 @@ I hold a degree in Robotics Engineering and will soon begin studying for a maste
 <img width="300px" src="conductive_paint.gif">
 </p>
 
-* **[Serial Synapse](https://github.com/hlfshell/serial-synapse)** - A microcontroller that utilizes the serial-synapse defined serial messaging system can be connected to a loosely described `serial-synapse` object. `serial-synapse` would then instantly create an interactive JavaScript API object to easily automate the hardware and programmatically control it. This powered dozens of weird hardware builds throughout the years.
+* **[Serial Synapse](https://github.com/hlfshell/serial-synapse)** - A microcontroller that utilizes the serial-synapse defined messaging protocol can be connected to a loosely described node.js `serial-synapse` object. `serial-synapse` would then instantly create an interactive node API object to easily automate the hardware and programmatically control it. Asynchronous control, reacting to MCU feedback, and node->MCU hardware control is made effortless. This powered dozens of weird hardware builds throughout the years.
 
 * **[Serial Synapse Socket](https://github.com/hlfshell/serial-synapse-socket)** - Takes the above and instantly exposes the hardware as a web socket API
 
 * **[desk-bling](https://github.com/hlfshell/desk-bling)** - A Slackbot/Particle Photon app to bling out my desk with Slack-controllable RGB LED strips
-* **[mqtt-scheduler](https://github.com/hlfshell/mqtt-scheduler)** - A CLI and config file daemo process that allowed one to easily schedule MQTT broadcasts with human english definitions
+
+* **[mqtt-scheduler](https://github.com/hlfshell/mqtt-scheduler)** - A CLI and config file daemon process that allowed one to easily schedule MQTT broadcasts with human english definitions
 
 * **[garden-relay](https://github.com/hlfshell/garden-relay)** - An MQTT embedded controller with LCD and button control that automated lights and pumps for my wife's indoor garden
 
