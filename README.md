@@ -46,7 +46,7 @@ I hold a degree in Robotics Engineering and will soon begin studying for a maste
 
 ## Robotics and Computer Vision
 <p align="center">
-<img width="300px" src="lane_detection.gif">
+<img width="300px" src="lane_detection.gif"><img width="300px" src="evolving_cars.gif">
 </p>
 
 * **[AI Algorithm Playground](https://github.com/hlfshell/ai_playground)** - where I played around with some AI algorithms and made some fun little generators to test them
