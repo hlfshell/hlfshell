@@ -49,6 +49,8 @@ I hold a degree in Robotics Engineering and will soon begin studying for a maste
 <img width="300px" src="lane_detection.gif"><img width="300px" src="evolving_cars.gif">
 </p>
 
+* **[Evolving Cars](https://github.com/hlfshell/evolving-cars)** - A self made pygame race car game where I used evolutionary algorithms to create cars that can complete the track successfully.
+
 * **[AI Algorithm Playground](https://github.com/hlfshell/ai_playground)** - where I played around with some AI algorithms and made some fun little generators to test them
 
 * **[personable](https://github.com/hlfshell/personable)** - an attempt to make human identification and tracking easier for future projects, I mashed together human pose estimation with face recognition and skeletal tracking to allow some projects interact with a person
