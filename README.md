@@ -11,7 +11,7 @@ Projects currently focus on:
 
 ---
 
-I hold a degree in Robotics Engineering and will soon begin studying for a masters in the same from WPI. I currently work as a Senior Software Engineer for [Brain Corp](http://www.braincorp.com)'s Cloud Team. You may view my resume [here](https://github.com/hlfshell/resume).
+I hold a degree in Robotics Engineering and will soon begin studying for a masters in the same from WPI. I currently work as a Senior Software Engineer for [Osaro](https://osaro.com/)'s Infrastructure Team. You may view my resume [here](https://github.com/hlfshell/resume).
 
 # Suggested Repos
 
