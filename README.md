@@ -1,23 +1,76 @@
 # Keith Chester
 
-Robotics and DIY tech enthusiast.
+Robotics and Software Engineer with a penchant for DIY tech projects.
 
 Projects currently focus on:
 
 * Robotics
-* DIY Tech
 * Computer Vision
+* DIY Tech
 * Random Insane Ideas
 
 ---
 
-I hold a degree in Robotics Engineering and will soon begin studying for a masters in the same from WPI. I currently work as a Senior Software Engineer for [Osaro](https://osaro.com/)'s Infrastructure Team. You may view my resume [here](https://github.com/hlfshell/resume).
+I hold a bachelor's degree in Robotics Engineering and am currently studying for a Masters in the same from WPI. I currently work as a Senior Software Engineer for [Osaro](https://osaro.com/)'s Infrastructure Team. You may view my resume [here](https://github.com/hlfshell/resume).in Engineering
 
 # Suggested Repos
 
+...wherein you can look at some of my recent work to get an idea of the kind of projects I enjoy working on.
+
 ---
 
-## Hardware Hacking
+## Robotics
+
+<p align="center">
+<img width="300px" src="rbe550_final_project.gif"/>
+<img width="250px" src="trailer.gif"/>
+</p>
+
+* **[Urban Delivery Robot w/ Local + Global Planner](https://github.com/hlfshell/rbe550-project)** - In this project we created within PyGame a homebrewed simulation of an urban environment with static (trash can, traffic cones, etc) and dynamic (moving cars) obstacles. We then created a street-map aware global planner and a kinematic modeled local planner to asynchronously path the robot from a central grocery store to assigned delivery addresses.
+
+* **[Motion Planning with Kinematic Constraints](https://github.com/hlfshell/valet)** - Here I explore three kinematic models - a skid drive robot, an Ackermann drive robot, and an Ackamann drive robot with attached tow trailer. In each I utilize the kinematic models and constraints of the given robot model to utilize A* to plan across a continuous space.
+
+* **[LQR Control of an Intercept and Return Drone Airspace Protection System](https://github.com/hlfshell/RBE-502-Project)** - This group project for RBE502 (Robot Controls) had us creating a non linear controller for an interceptor drone system. The system would react to another drone entering its airspace. Utilizing a Linear Quadratic Regulator (LQR) controller, we feed the position of the target drone into the controller. Once the drone gets within a set proximity of the target, it is considered "captured" and is dragged, fighting, back to the launch site for inspection.
+
+* **[RRT Path Search for Object Manipulation](https://github.com/hlfshell/transmission)** - Utilizing RRT path planning across a high dimensionality space (6 dimensions consisting of 3 translations and 3 rotations), remove the top shaft out of a tight, high collision environment of a transmission.
+
+* **[Kinematic Foundations](https://github.com/hlfshell/rbe500)** - In the first course of the masters, we explored foundations of robotics through kinematics, mostly of robotic arms. The repository has a collection of interactive or animated MATLAB livescrips (with home-made visualizations) to explain core concepts such as frames, transforms, the Jacobian, inverse kinematics, singularities, and more.
+
+<p align="center">
+<img width="300px" src="drone_capture.gif"/>
+<img width="300px" src="rrrarm.gif"/>
+<img width="300px" src="transmission.gif"/>
+</p>
+
+---
+
+## Deep Learning, AI, and Computer Vision
+<p align="center">
+<img width="300px" src="evolving_cars.gif"><img width="300px" src="lane_detection.gif">
+</p>
+
+* **[Evolving Cars](https://github.com/hlfshell/evolving-cars)** - To experiment with evolutionary algorithms, I created a self made a race car game in PyGame where I evolve neural networks to control cars that can complete a given track successfully.
+
+* **[Deep Q Networks](https://github.com/hlfshell/deep_q_network)** - a self-study exploration in deep reinforcement learning with Deep Q Networks - applied to a few OpenAI gyms.
+
+* **[personable](https://github.com/hlfshell/personable)** - an attempt to make human identification and tracking easier for future projects, I mashed together human pose estimation with face recognition and skeletal tracking to allow some projects interact with a person
+
+* **[Behavioral Cloning](https://github.com/hlfshell/udacity_carnd_behavioral_cloning)** - final project for the Udacity Self Driving Car Nanodegree. A CNN observes simulated car's manual driving and then manages to reproduce the behavior of steering to staying in-lane on a race course.
+
+* **[Lane Detection](https://github.com/hlfshell/Udacity-CarND-Advanced-Lane-Finding)** - homework assignment for the Udacity Self Driving Car Nanodegree. Utilizes thresholding and sobel edge edge detection to determine lane curvature.
+
+* **[Vehicle Detection](https://github.com/hlfshell/Udacity-CarND-VehicleDetection)** - homework assignment for the Udacity Self Driving Car Nanodegree. Within is a classical computer vision vehicle detector utilizing a histogram of gradients (*HoG*) to identify vehicles in a video.
+
+* **[AI Algorithm Playground](https://github.com/hlfshell/ai_playground)** - where I played around with some AI algorithms and made some fun little generators to test them
+
+<p align="center">
+<img width="300px" src="lunar_lander.gif">
+<img width="200px" src="astar.gif">
+</p>
+
+---
+
+## Hardware Hacking Fun
 <p align="center">
 <img width="300px" src="conductive_paint.gif">
 </p>
@@ -40,29 +93,6 @@ I hold a degree in Robotics Engineering and will soon begin studying for a maste
 
 <p align="center">
 <img width="300px" src="cameras.gif">
-</p>
-
----
-
-## Robotics and Computer Vision
-<p align="center">
-<img width="300px" src="lane_detection.gif"><img width="300px" src="evolving_cars.gif">
-</p>
-
-* **[Evolving Cars](https://github.com/hlfshell/evolving-cars)** - A self made pygame race car game where I used evolutionary algorithms to create cars that can complete the track successfully.
-
-* **[AI Algorithm Playground](https://github.com/hlfshell/ai_playground)** - where I played around with some AI algorithms and made some fun little generators to test them
-
-* **[personable](https://github.com/hlfshell/personable)** - an attempt to make human identification and tracking easier for future projects, I mashed together human pose estimation with face recognition and skeletal tracking to allow some projects interact with a person
-
-* **[Behavioral Cloning](https://github.com/hlfshell/udacity_carnd_behavioral_cloning)** - final project for the Udacity Self Driving Car Nanodegree. A CNN observes simulated car's manual driving and then manages to reproduce the behavior of steering to staying in-lane on a race course.
-
-* **[Lane Detection](https://github.com/hlfshell/Udacity-CarND-Advanced-Lane-Finding)** - homework assignment for the Udacity Self Driving Car Nanodegree. Utilizes thresholding and sobel edge edge detection to determine lane curvature.
-
-* **[Vehicle Detection](https://github.com/hlfshell/Udacity-CarND-VehicleDetection)** - homework assignment for the Udacity Self Driving Car Nanodegree. Within is a classical computer vision vehicle detector utilizing a histogram of gradients (*HoG*) to identify vehicles in a video.
-
-<p align="center">
-<img width="300px" src="astar.gif">
 </p>
 
 ---
