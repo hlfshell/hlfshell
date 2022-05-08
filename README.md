@@ -22,7 +22,7 @@ I hold a bachelor's degree in Robotics Engineering and am currently studying for
 ## Robotics
 
 <p align="center">
-<img width="300px" src="rbe550_final_project.gif"/>
+<img width="500px" src="rbe550_final_project.gif"/>
 <img width="250px" src="trailer.gif"/>
 </p>
 
