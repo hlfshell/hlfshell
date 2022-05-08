@@ -39,7 +39,7 @@ I hold a bachelor's degree in Robotics Engineering and am currently studying for
 <p align="center">
 <a href="https://github.com/hlfshell/RBE-502-Project"><img width="300px" src="drone_capture.gif"/></a>
 <a href="https://github.com/hlfshell/rbe500"><img width="300px" src="rrrarm.gif"/></a>
-<a href="https://github.com/hlfshell/rbe550-transmission"><img width="300px" src="transmission.gif"/></a>https://github.com/hlfshell/rbe550-transmission
+<a href="https://github.com/hlfshell/rbe550-transmission"><img width="300px" src="transmission.gif"/></a>
 </p>
 
 ---
