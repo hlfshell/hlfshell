@@ -11,7 +11,7 @@ Projects currently focus on:
 
 ---
 
-I hold a bachelor's degree in Robotics Engineering and am currently studying for a Masters in the same from WPI. I currently work as a Senior Software Engineer for [Osaro](https://osaro.com/)'s Infrastructure Team. You may view my resume [here](https://github.com/hlfshell/resume).in Engineering
+I hold a bachelor's degree in Robotics Engineering and am currently studying for a Masters in the same from WPI. I currently work as a Senior Software Engineer for [Osaro](https://osaro.com/)'s Infrastructure Team. You may view my resume [here](https://github.com/hlfshell/resume).
 
 # Suggested Repos
 
