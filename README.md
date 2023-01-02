@@ -2,24 +2,21 @@
 
 Robotics and Cloud Software Engineer with a penchant for DIY tech projects.
 
-Projects currently focus on:
-
-* Robotics
-* Computer Vision
-* DIY Tech
-* Random Insane Ideas
+You may view my resume [here](https://github.com/hlfshell/resume).
 
 ---
 
-I hold a bachelor's degree in Robotics Engineering and am currently studying for a Masters in the same from WPI. I currently work as a Senior Software Engineer for [Osaro](https://osaro.com/)'s Infrastructure Team. You may view my resume [here](https://github.com/hlfshell/resume).
+I hold a bachelor's degree in Robotics Engineering and am currently studying for a Masters in the same from WPI. I currently work as a Senior Software Engineer for [Osaro](https://osaro.com/)'s Infrastructure Team.
 
-# Suggested Repos
+For the past 5 years I have specialized in developing:
 
-...wherein you can look at some of my recent work to get an idea of the kind of projects I enjoy working on.
+* Edge robotic fleet data pipelines
+* Machine learning pipelines
+* Control, configuration, and fleet management systems for a global fleet of robots
 
 ---
 
-## Robotics
+# Robotics
 
 <p align="center">
 <a href="https://github.com/hlfshell/rbe550-project"><img width="500px" src="rbe550_final_project.gif"/></a>
@@ -44,33 +41,51 @@ I hold a bachelor's degree in Robotics Engineering and am currently studying for
 
 ---
 
-## Deep Learning, AI, and Computer Vision
+# Deep Learning, AI, and Reinforcement Learning
 <p align="center">
-<a href="https://github.com/hlfshell/evolving-cars"><img width="300px" src="evolving_cars.gif"></a><a href="https://github.com/hlfshell/Udacity-CarND-Advanced-Lane-Finding"><img width="300px" src="lane_detection.gif"></a>
+<a href="https://github.com/hlfshell/evolving-cars"><img width="300px" src="evolving_cars.gif"></a>
+<a href="https://github.com/hlfshell/deep_q_network"><img width="300px" src="lunar_lander.gif"></a>
 </p>
 
 * **[Evolving Cars](https://github.com/hlfshell/evolving-cars)** - To experiment with evolutionary algorithms, I created a self made a race car game in PyGame where I evolve neural networks to control cars that can complete a given track successfully.
 
 * **[Deep Q Networks](https://github.com/hlfshell/deep_q_network)** - a self-study exploration in deep reinforcement learning with Deep Q Networks - applied to a few OpenAI gyms.
 
-* **[personable](https://github.com/hlfshell/personable)** - an attempt to make human identification and tracking easier for future projects, I mashed together human pose estimation with face recognition and skeletal tracking to allow some projects interact with a person
+* **[Evolutionary Algorithms to Solve Chicago Traffic](https://github.com/hlfshell/cs534-project)** - Using the SUMO traffic simulator, I used its Python API to automate the simulator and train an evolutionary algorithm trained AI to controll traffic lights, aiming to reduce travel time throughout the city for simulated cars.
 
 * **[Behavioral Cloning](https://github.com/hlfshell/udacity_carnd_behavioral_cloning)** - final project for the Udacity Self Driving Car Nanodegree. A CNN observes simulated car's manual driving and then manages to reproduce the behavior of steering to staying in-lane on a race course.
-
-* **[Lane Detection](https://github.com/hlfshell/Udacity-CarND-Advanced-Lane-Finding)** - homework assignment for the Udacity Self Driving Car Nanodegree. Utilizes thresholding and sobel edge edge detection to determine lane curvature.
-
-* **[Vehicle Detection](https://github.com/hlfshell/Udacity-CarND-VehicleDetection)** - homework assignment for the Udacity Self Driving Car Nanodegree. Within is a classical computer vision vehicle detector utilizing a histogram of gradients (*HoG*) to identify vehicles in a video.
 
 * **[AI Algorithm Playground](https://github.com/hlfshell/ai_playground)** - where I played around with some AI algorithms and made some fun little generators to test them
 
 <p align="center">
-<a href="https://github.com/hlfshell/deep_q_network"><img width="300px" src="lunar_lander.gif"></a>
+<a href="https://github.com/hlfshell/cs534-project"><img width="300px" src="evolutionary-traffic.gif"></a>
 <a href="https://github.com/hlfshell/ai_playground"><img width="200px" src="astar.gif"></a>
 </p>
 
 ---
 
-## Hardware Hacking Fun
+# Computer Vision
+
+<p align="center">
+<a href="https://github.com/hlfshell/rbe549-project-segmentation"><img width="300px" src="semantic_segmentation.gif"></a>
+</p>
+
+* **[Semantic Segmentation for Self Driving Cars](https://github.com/hlfshell/rbe549-project-segmentation)** - Final project for the WPI RBE549 graduate computer vision course, our team automated the CARLA car simulator to generate a dataset and train a semantic segmentation network for driving applications.
+
+* **[Vehicle Detection](https://github.com/hlfshell/Udacity-CarND-VehicleDetection)** - homework assignment for the Udacity Self Driving Car Nanodegree. Within is a classical computer vision vehicle detector utilizing a histogram of gradients (*HoG*) to identify vehicles in a video.
+
+* **[Lane Detection](https://github.com/hlfshell/Udacity-CarND-Advanced-Lane-Finding)** - homework assignment for the Udacity Self Driving Car Nanodegree. Utilizes thresholding and sobel edge edge detection to determine lane curvature.
+
+* **[personable](https://github.com/hlfshell/personable)** - an attempt to make human identification and tracking easier for future projects, I mashed together human pose estimation with face recognition and skeletal tracking to allow some projects interact with a person
+
+<p align="center">
+<a href="https://github.com/hlfshell/Udacity-CarND-Advanced-Lane-Finding"><img width="300px" src="lane_detection.gif"></a>
+<a href="https://github.com/hlfshell/Udacity-CarND-VehicleDetection"><img width="300px" src="vehicle-detection.gif"></a>
+</p>
+
+---
+
+# Hardware Hacking Fun
 <p align="center">
 <img width="300px" src="conductive_paint.gif">
 </p>
@@ -97,7 +112,7 @@ I hold a bachelor's degree in Robotics Engineering and am currently studying for
 
 ---
 
-## golang
+# golang
 
 The vast majority of my golang work is under private repos - I have not had the opportunity to prepare too much open source go work.
 
@@ -105,7 +120,7 @@ The vast majority of my golang work is under private repos - I have not had the 
 
 ---
 
-## node.js Projects
+# node.js
 
 I wrote a lot of node.js and Typescript for a few years. Here's some of my more notable projects. 
 
