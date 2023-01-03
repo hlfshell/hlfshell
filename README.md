@@ -11,8 +11,8 @@ I hold a bachelor's degree in Robotics Engineering and am currently studying for
 For the past 5 years I have specialized in developing:
 
 * Edge robotic fleet data pipelines
-* Machine learning pipelines
-* Control, configuration, and fleet management systems for a global fleet of robots
+* Deep learning pipelines
+* Control, configuration, and fleet management systems for global robot deployments
 
 ---
 
