@@ -6,7 +6,7 @@ You may view my resume [here](https://github.com/hlfshell/resume).
 
 ---
 
-I hold a bachelor's degree in Robotics Engineering and am currently studying for a Masters in the same from WPI. I currently work as a Senior Software Engineer for [Osaro](https://osaro.com/)'s Infrastructure Team.
+I am a software engineer with over a dozen years of experience. I will soon receive a Masters in Robotics Engineering from WPI, where I have been working heavily on robotic navigation, reinforcement learning, computer vision, and deep learning in robotics.
 
 For the past 5 years I have specialized in developing:
 
