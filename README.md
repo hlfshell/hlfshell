@@ -2,6 +2,8 @@
 
 Robotics and Cloud Software Engineer with a penchant for DIY tech projects.
 
+My blog can be found [here](https://hlfshell.ai).
+
 You may view my resume [here](https://github.com/hlfshell/resume).
 
 ---
