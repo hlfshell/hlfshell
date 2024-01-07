@@ -20,7 +20,6 @@ For the past 5 years I have specialized in developing:
 
 * [Robotics](#robotics)
     * [AI](#ai-and-robotics)
-    * [Robotics](#robotics)
     * [Reinforcement Learning](#reinforcement-learning)
     * [Deep Learning](#ai--deep-learning)
     * [Computer Vision](#computer-vision)
