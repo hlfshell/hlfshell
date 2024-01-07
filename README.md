@@ -36,7 +36,7 @@ For the past 5 years I have specialized in developing:
 ## AI
 
 <p align="center">
-<a href="https://github.com/hlfshell/https://hlfshell.ai/posts/masters-capstone/#demos"><img width="500px" src="llm_robot.png"/></a>
+<a href="https://hlfshell.ai/posts/masters-capstone/#demos"><img width="500px" src="llm_robot.png"/></a>
 </p>
 
 * **[LLM Powered Contextually Aware Task Planning](https://github.com/hlfshell/wpi-capstone)** - My Master's capstone project, we built out a modified home environment with a robotic agent to act as an object retriever for a human user. The robot had a vision-powered understanding of world state, paired with a set of actionable APIs to build higher level behavior to control movement and grasping/interaction. LLM agents considered world state with human-language requests to generate multiple task plans, rate them, and execute the chosen one to accomplish the given task.
